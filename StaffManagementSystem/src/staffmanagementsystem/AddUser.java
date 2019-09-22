@@ -23,6 +23,7 @@ public class AddUser extends javax.swing.JFrame {
     String userName;
     String jobTitle;
     String back;
+    String test;
 
     /**
      * Creates new form AddUser
